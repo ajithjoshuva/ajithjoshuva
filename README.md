@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate developer just starting my journe
 ## 🚀 About Me
 
 - 🔭 I’m currently learning **Web Development** and **Nodejs**.
-- 🌱 I’m currently improving my skills in **JavaScript**, **React**, and **Node.js**.
-- 🤔 I’m looking to collaborate on any **open-source projects** or **web development** related tasks.
+- 🌱 I’m currently improving my skills in **JavaScript**, **React**, and **Node.js**,**Ai&ML**
+- 🤔 I’m looking to collaborate on any **open-source projects** or **web development**,**ML Enginner** related tasks.
 - 📚 I'm always open to learning new things, especially in **software engineering** and **data structures**.
 - 💬 Feel free to ask me about **programming** or **tech-related topics**!
 - 😄 Fun fact: I love watching **tech tutorials** on YouTube in my free time.
