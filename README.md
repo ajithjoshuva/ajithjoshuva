@@ -25,5 +25,3 @@ Welcome to my GitHub profile! I'm a passionate developer just starting my journe
 ## 🌐 Let's Connect!
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ajithjoshuva/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
-- Portfolio: [Your Portfolio](https://your-portfolio.com)
